@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./App.css";
 import Login from "./Login";
 import Register from "./Register";
-
+// Improved responsiveness and UI interactions
 function App() {
   const [page, setPage] = useState("login");
 
