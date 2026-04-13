@@ -102,4 +102,4 @@ The redesigned interface improves usability, clarity, and responsiveness while m
 
 ## Author
 
-Kapil Ramnani  give same readme with the changes so that i can directly copy paste that
+Kapil Ramnani  
