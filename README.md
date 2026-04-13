@@ -74,23 +74,23 @@ npm start
 
 #### Login Page
 
-![Old Login](src/assets/old-login.png)
+![Old Login](./src/assets/old-login.png)
 
 #### Registration Page
 
-![Old Register](src/assets/old-register.png)
+
+![Old Register](./src/assets/old-register.png)
 
 ---
 
 ### Improved UI
 
 #### Login Page
-
-![New Login](src/assets/new-login.png)
+![New Login](./src/assets/new-login.png)
 
 #### Registration Page
 
-![New Register](src/assets/new-register.png)
+![New Register](./src/assets/new-register.png)
 
 ---
 
@@ -102,4 +102,4 @@ The redesigned interface improves usability, clarity, and responsiveness while m
 
 ## Author
 
-Kapil Ramnani
+Kapil Ramnani  give same readme with the changes so that i can directly copy paste that
